@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\IIS server\ToolHealth</_PublishTargetUrl>
+    <History>True|2024-07-08T09:56:42.7735694Z;True|2024-07-08T15:03:55.9230577+05:30;True|2024-06-26T19:52:43.4043854+05:30;True|2024-06-26T18:43:45.1153886+05:30;True|2024-06-25T17:57:15.4776245+05:30;True|2024-06-21T20:37:45.2308580+05:30;True|2024-06-21T20:11:17.8256672+05:30;True|2024-06-21T14:45:33.1976853+05:30;True|2024-06-20T17:59:33.2875876+05:30;True|2024-06-19T18:53:21.6791935+05:30;True|2024-06-19T18:51:55.7721726+05:30;True|2024-06-19T18:07:51.0888546+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=MYTSP01366\SQLEXPRESS01%3bDatabase=ToolHealthManagement%3bUser Id=adminAPI%3bpassword=AdminLTTS!1234%3bTrustServerCertificate=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ToolMonitoringServices.DataAccess.AppDbContext">
+      <Value>Server=MYTSP01366\SQLEXPRESS01%3bDatabase=ToolHealthManagement%3b User Id=adminAPI%3bpassword=AdminLTTS!1234%3bTrustServerCertificate=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

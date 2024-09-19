@@ -1,0 +1,447 @@
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.Development.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\libman.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.exe
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.deps.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.runtimeconfig.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.pdb
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Core.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Identity.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Humanizer.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.ClientModel.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.CodeDom.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Memory.Data.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.AssemblyReference.cache
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfoInputs.cache
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfo.cs
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.CoreCompileInputs.cache
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cs
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cache
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.ToolMonitoringServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.build.ToolMonitoringServices.props
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToolMonitoringServices.props
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToolMonitoringServices.props
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\scopedcss\bundle\ToolMonitoringServices.styles.css
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMoni.4A4DC538.Up2Date
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\refint\ToolMonitoringServices.dll
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.pdb
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.genruntimeconfig.cache
+C:\POC\ToolMonitoringServices 4\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ref\ToolMonitoringServices.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.Development.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\libman.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.exe
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.deps.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.runtimeconfig.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.pdb
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Core.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Identity.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Humanizer.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.ClientModel.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.CodeDom.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Memory.Data.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.AssemblyReference.cache
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfoInputs.cache
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfo.cs
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.CoreCompileInputs.cache
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cs
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cache
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.build.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.development.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.ToolMonitoringServices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.build.ToolMonitoringServices.props
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToolMonitoringServices.props
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToolMonitoringServices.props
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\scopedcss\bundle\ToolMonitoringServices.styles.css
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\refint\ToolMonitoringServices.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.pdb
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.genruntimeconfig.cache
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ref\ToolMonitoringServices.dll
+D:\POC-Latest\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMoni.4A4DC538.Up2Date
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\appsettings.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\libman.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.exe
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.deps.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.runtimeconfig.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ToolMonitoringServices.pdb
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Humanizer.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.AssemblyReference.cache
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfoInputs.cache
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.AssemblyInfo.cs
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.csproj.CoreCompileInputs.cache
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.ToolMonitoringServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.build.ToolMonitoringServices.props
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToolMonitoringServices.props
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToolMonitoringServices.props
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\scopedcss\bundle\ToolMonitoringServices.styles.css
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMoni.4A4DC538.Up2Date
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\refint\ToolMonitoringServices.dll
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.pdb
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ToolMonitoringServices.genruntimeconfig.cache
+C:\Users\40038203\Downloads\ToolMonitoringServices\ToolMonitoringServices\ToolMonitoringServices\obj\Debug\net8.0\ref\ToolMonitoringServices.dll

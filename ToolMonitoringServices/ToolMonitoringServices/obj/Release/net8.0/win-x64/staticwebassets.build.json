@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/45d+2eFWZjdYS4FvtwOVVi+NV6lBVntdLMgGgsoeIQ=",
+  "Source": "ToolMonitoringServices",
+  "BasePath": "_content/ToolMonitoringServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
